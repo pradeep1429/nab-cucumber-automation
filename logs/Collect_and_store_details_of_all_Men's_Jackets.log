@@ -1,0 +1,8 @@
+2025-02-07 18:40:49 INFO  Collect and store details of all Men's Jackets:26 - Initializing WebDriver...
+2025-02-07 18:40:49 INFO  Collect and store details of all Men's Jackets:28 - launching the 'chrome' browser
+2025-02-07 18:40:52 INFO  Collect and store details of all Men's Jackets:34 - Starting Scenario: Collect_and_store_details_of_all_Men's_Jackets
+2025-02-07 18:40:52 INFO  Collect and store details of all Men's Jackets:17 - PageURL: https://www.nba.com/warriors/
+2025-02-07 18:40:55 INFO  Collect and store details of all Men's Jackets:39 - Scenario Completed: PASSED
+2025-02-07 18:40:55 INFO  Collect and store details of all Men's Jackets:50 - Scenario Passed: Collect and store details of all Men's Jackets
+2025-02-07 18:40:55 INFO  Collect and store details of all Men's Jackets:41 - *******Webdriver ShutDown*******
+2025-02-07 18:40:55 INFO  Collect and store details of all Men's Jackets:44 - *******Execution completed browser closed*******

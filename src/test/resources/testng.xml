@@ -1,0 +1,9 @@
+<suite name="NBA Test Automation" parallel="tests" thread-count="2">
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="tags" value="@attach_text_report or @attach_csv_report and not @skip"/>
+        <classes>
+            <class name="com.nba.runners.CucumberRunner"/>
+        </classes>
+    </test>
+</suite>

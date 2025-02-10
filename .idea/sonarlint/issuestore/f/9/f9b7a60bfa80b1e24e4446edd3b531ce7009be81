@@ -1,0 +1,16 @@
+
+˜
+java:S1450"URemove the "driver" field and declare it as a local variable in the relevant methods.(ëÇ×8íÙÿòÎ2J$b82e007d-adfa-414d-b13a-15e4bb9c36df
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(èÁ²ˆùÿÿÿÿ8íÙÿòÎ2J$3b891e3d-f4c9-44d7-bf7a-4ae797268621
+]	java:S1251"<This block of commented-out lines of code should be removed.(ŞÉÉ·ùÿÿÿÿ8”Ÿ—óÎ2
+„
+java:S1128"<Remove this unused import 'org.apache.logging.log4j.Logger'.(»¯øÿÿÿÿ8ªë‹óÎ2J$fa9008ec-652c-4529-88a7-454095474057
+ƒ
+java:S1128"@Remove this unused import 'org.nba.config.ConfigurationManager'.(ç¸©›8ªë‹óÎ2J$7d22cc72-b49a-49d1-9249-55746e4437b9
+|
+java:S1128"9Remove this unused import 'org.nba.config.LoggerManager'.(ç ö„8ªë‹óÎ2J$5bb630bd-4519-432a-84d7-d7c0bea84e25
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8–Ÿ—óÎ2
+}
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ªë‹óÎ2J$24621744-17ed-4140-9c5e-470b303c29df

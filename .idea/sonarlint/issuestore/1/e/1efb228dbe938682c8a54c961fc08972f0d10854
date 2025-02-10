@@ -1,0 +1,21 @@
+
+@
+java:S3010 "#Remove this assignment of "driver".(ÁÜÑ¥8¿ñÁôÎ2
+R
+java:S2209 "5Change this instance-reference to a static reference.(ÁÜÑ¥8¿ñÁôÎ2
+œ
+java:S6204-"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ş­Æ ıÿÿÿÿ8ÀñÁôÎ2
+P
+java:S18743"4Remove this use of "getAttribute"; it is deprecated.(‘¢Ü8ÂñÁôÎ2
+Q
+java:S18744"4Remove this use of "getAttribute"; it is deprecated.(é»ê‰8ÂñÁôÎ2
+c
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ8ÂñÁôÎ2
+j
+java:S1128"MRemove this unused import 'org.openqa.selenium.support.ui.ExpectedCondition'.(Ü¥ö’8ÂñÁôÎ2
+`
+java:S1128"CRemove this unused import 'org.nba.config.LoggerManager.getLogger'.(ØÇ×í8ÂñÁôÎ2
+e
+java:S1128"IRemove this unused import 'org.nba.utils.WaitUtil.waitForAsyncExecution'.(õí'8ÂñÁôÎ2
+G
+java:S1068"*Remove this unused "driver" private field.(ëÇ×8ÃñÁôÎ2
