@@ -68,8 +68,8 @@ This is the central repository for the Test Automation Suite of the NBA Web Appl
 
 4. **Clone the repository**:
    ```bash
-   git clone https://github.com/pradeep/nba-automation.git
-   cd nba-automation
+   git clone https://github.com/pradeep/nab-automation.git
+   cd nab-automation
    ```
 
 5. **Install dependencies**:
