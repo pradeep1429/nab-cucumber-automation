@@ -12,6 +12,7 @@ This is the central repository for the Test Automation Suite of the NBA Web Appl
 
 
 ##MyTestAutomationFramework
+```
 │
 ├───src
 │   ├───main
@@ -53,6 +54,7 @@ This is the central repository for the Test Automation Suite of the NBA Web Appl
 │           └───testng.xml
 ├───pom.xml
 └───README.md
+```
 
 ## Setup Instructions:
 1. **Install Java JDK**:
@@ -96,7 +98,7 @@ mvn clean test
 - **Test Reports** are generated using Cucumber's built-in report generator and can be found in `target/cucumber-reports` after the execution of tests.
 
 ## UseCase flow of Framework
-
+```
                +--------------------------------+
                |          Test Execution        |
                |        (CucumberRunner)        |
@@ -132,7 +134,7 @@ mvn clean test
 | (Step Binding with Gherkin Steps)    | |    (e.g., BullScenario,         |
 | (e.g., BullSteps, SixersSteps)       | |         SixersScenario)         |
 +--------------------------------------+ +---------------------------------+
-
+```
 ## UseCase Flow
 
 1. **Test Execution**
