@@ -11,7 +11,7 @@ This is the central repository for the Test Automation Suite of the NBA Web Appl
 - TestNG 7.9.0
 
 
-##MyTestAutomationFramework
+## MyTestAutomationFramework
 ```
 │
 ├───src
